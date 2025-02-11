@@ -1,0 +1,1485 @@
+{
+    "regiones": [
+      {
+        "nombre": "Arica y Parinacota",
+        "numero": "XV",
+        "comunas": [
+          {
+            "nombre": "Arica",
+            "codigo_postal": "1000000"
+          },
+          {
+            "nombre": "Camarones",
+            "codigo_postal": "1060000"
+          },
+          {
+            "nombre": "Putre",
+            "codigo_postal": "1070000"
+          },
+          {
+            "nombre": "General Lagos",
+            "codigo_postal": "1080000"
+          }
+        ]
+      },
+      {
+        "nombre": "Tarapacá",
+        "numero": "I",
+        "comunas": [
+          {
+            "nombre": "Iquique",
+            "codigo_postal": "1100000"
+          },
+          {
+            "nombre": "Alto Hospicio",
+            "codigo_postal": "1130000"
+          },
+          {
+            "nombre": "Pozo Almonte",
+            "codigo_postal": "1160000"
+          },
+          {
+            "nombre": "Camiña",
+            "codigo_postal": "1170000"
+          },
+          {
+            "nombre": "Colchane",
+            "codigo_postal": "1180000"
+          },
+          {
+            "nombre": "Huara",
+            "codigo_postal": "1190000"
+          },
+          {
+            "nombre": "Pica",
+            "codigo_postal": "1210000"
+          }
+        ]
+      },
+      {
+        "nombre": "Antofagasta",
+        "numero": "II",
+        "comunas": [
+          {
+            "nombre": "Antofagasta",
+            "codigo_postal": "1240000"
+          },
+          {
+            "nombre": "Mejillones",
+            "codigo_postal": "1310000"
+          },
+          {
+            "nombre": "Sierra Gorda",
+            "codigo_postal": "1320000"
+          },
+          {
+            "nombre": "Taltal",
+            "codigo_postal": "1330000"
+          },
+          {
+            "nombre": "Calama",
+            "codigo_postal": "1390000"
+          },
+          {
+            "nombre": "Ollagüe",
+            "codigo_postal": "1420000"
+          },
+          {
+            "nombre": "San Pedro de Atacama",
+            "codigo_postal": "1410000"
+          },
+          {
+            "nombre": "Tocopilla",
+            "codigo_postal": "1340000"
+          },
+          {
+            "nombre": "María Elena",
+            "codigo_postal": "1380000"
+          }
+        ]
+      },
+      {
+        "nombre": "Atacama",
+        "numero": "III",
+        "comunas": [
+          {
+            "nombre": "Copiapó",
+            "codigo_postal": "1530000"
+          },
+          {
+            "nombre": "Caldera",
+            "codigo_postal": "1570000"
+          },
+          {
+            "nombre": "Tierra Amarilla",
+            "codigo_postal": "1580000"
+          },
+          {
+            "nombre": "Chañaral",
+            "codigo_postal": "1480000"
+          },
+          {
+            "nombre": "Diego de Almagro",
+            "codigo_postal": "1500000"
+          },
+          {
+            "nombre": "Vallenar",
+            "codigo_postal": "1610000"
+          },
+          {
+            "nombre": "Alto del Carmen",
+            "codigo_postal": "1640000"
+          },
+          {
+            "nombre": "Freirina",
+            "codigo_postal": "1650000"
+          },
+          {
+            "nombre": "Huasco",
+            "codigo_postal": "1660000"
+          }
+        ]
+      },
+      {
+        "nombre": "Coquimbo",
+        "numero": "IV",
+        "comunas": [
+          {
+            "nombre": "La Serena",
+            "codigo_postal": "1700000"
+          },
+          {
+            "nombre": "Coquimbo",
+            "codigo_postal": "1780000"
+          },
+          {
+            "nombre": "Andacollo",
+            "codigo_postal": "1830000"
+          },
+          {
+            "nombre": "La Higuera",
+            "codigo_postal": "1840000"
+          },
+          {
+            "nombre": "Paiguano",
+            "codigo_postal": "1860000"
+          },
+          {
+            "nombre": "Vicuña",
+            "codigo_postal": "1870000"
+          },
+          {
+            "nombre": "Illapel",
+            "codigo_postal": "1900000"
+          },
+          {
+            "nombre": "Canela",
+            "codigo_postal": "1930000"
+          },
+          {
+            "nombre": "Los Vilos",
+            "codigo_postal": "1940000"
+          },
+          {
+            "nombre": "Salamanca",
+            "codigo_postal": "1950000"
+          },
+          {
+            "nombre": "Ovalle",
+            "codigo_postal": "1840000"
+          },
+          {
+            "nombre": "Combarbalá",
+            "codigo_postal": "1970000"
+          },
+          {
+            "nombre": "Monte Patria",
+            "codigo_postal": "1980000"
+          },
+          {
+            "nombre": "Punitaqui",
+            "codigo_postal": "1990000"
+          },
+          {
+            "nombre": "Río Hurtado",
+            "codigo_postal": "2000000"
+          }
+        ]
+      },
+      {
+        "nombre": "Valparaíso",
+        "numero": "V",
+        "comunas": [
+          {
+            "nombre": "Valparaíso",
+            "codigo_postal": "2340000"
+          },
+          {
+            "nombre": "Casablanca",
+            "codigo_postal": "2480000"
+          },
+          {
+            "nombre": "Concón",
+            "codigo_postal": "2510000"
+          },
+          {
+            "nombre": "Juan Fernández",
+            "codigo_postal": "2600000"
+          },
+          {
+            "nombre": "Puchuncaví",
+            "codigo_postal": "2560000"
+          },
+          {
+            "nombre": "Quintero",
+            "codigo_postal": "2540000"
+          },
+          {
+            "nombre": "Viña del Mar",
+            "codigo_postal": "2520000"
+          },
+          {
+            "nombre": "Isla de Pascua",
+            "codigo_postal": "2770000"
+          },
+          {
+            "nombre": "Los Andes",
+            "codigo_postal": "2100000"
+          },
+          {
+            "nombre": "Calle Larga",
+            "codigo_postal": "2130000"
+          },
+          {
+            "nombre": "Rinconada",
+            "codigo_postal": "2140000"
+          },
+          {
+            "nombre": "San Esteban",
+            "codigo_postal": "2150000"
+          },
+          {
+            "nombre": "La Ligua",
+            "codigo_postal": "2200000"
+          },
+          {
+            "nombre": "Cabildo",
+            "codigo_postal": "2230000"
+          },
+          {
+            "nombre": "Papudo",
+            "codigo_postal": "2260000"
+          },
+          {
+            "nombre": "Petorca",
+            "codigo_postal": "2270000"
+          },
+          {
+            "nombre": "Zapallar",
+            "codigo_postal": "2280000"
+          },
+          {
+            "nombre": "Quillota",
+            "codigo_postal": "2260000"
+          },
+          {
+            "nombre": "Calera",
+            "codigo_postal": "2290000"
+          },
+          {
+            "nombre": "Hijuelas",
+            "codigo_postal": "2310000"
+          },
+          {
+            "nombre": "La Cruz",
+            "codigo_postal": "2280000"
+          },
+          {
+            "nombre": "Nogales",
+            "codigo_postal": "2300000"
+          },
+          {
+            "nombre": "San Antonio",
+            "codigo_postal": "2660000"
+          },
+          {
+            "nombre": "Algarrobo",
+            "codigo_postal": "2710000"
+          },
+          {
+            "nombre": "Cartagena",
+            "codigo_postal": "2680000"
+          },
+          {
+            "nombre": "El Quisco",
+            "codigo_postal": "2700000"
+          },
+          {
+            "nombre": "El Tabo",
+            "codigo_postal": "2690000"
+          },
+          {
+            "nombre": "Santo Domingo",
+            "codigo_postal": "2720000"
+          },
+          {
+            "nombre": "San Felipe",
+            "codigo_postal": "2170000"
+          },
+          {
+            "nombre": "Catemu",
+            "codigo_postal": "2230000"
+          },
+          {
+            "nombre": "Llaillay",
+            "codigo_postal": "2220000"
+          },
+          {
+            "nombre": "Panquehue",
+            "codigo_postal": "2210000"
+          },
+          {
+            "nombre": "Putaendo",
+            "codigo_postal": "2200000"
+          },
+          {
+            "nombre": "Santa María",
+            "codigo_postal": "2240000"
+          },
+          {
+            "nombre": "Quilpué",
+            "codigo_postal": "2430000"
+          },
+          {
+            "nombre": "Limache",
+            "codigo_postal": "2400000"
+          },
+          {
+            "nombre": "Olmué",
+            "codigo_postal": "2410000"
+          },
+          {
+            "nombre": "Villa Alemana",
+            "codigo_postal": "2450000"
+          }
+        ]
+      },
+      {
+        "nombre": "Región Metropolitana de Santiago",
+        "numero": "XIII",
+        "comunas": [
+          {
+            "nombre": "Santiago",
+            "codigo_postal": "8320000"
+          },
+          {
+            "nombre": "Cerrillos",
+            "codigo_postal": "9200000"
+          },
+          {
+            "nombre": "Cerro Navia",
+            "codigo_postal": "9080000"
+          },
+          {
+            "nombre": "Conchalí",
+            "codigo_postal": "8540000"
+          },
+          {
+            "nombre": "El Bosque",
+            "codigo_postal": "8010000"
+          },
+          {
+            "nombre": "Estación Central",
+            "codigo_postal": "9160000"
+          },
+          {
+            "nombre": "Huechuraba",
+            "codigo_postal": "8580000"
+          },
+          {
+            "nombre": "Independencia",
+            "codigo_postal": "8380000"
+          },
+          {
+            "nombre": "La Cisterna",
+            "codigo_postal": "7970000"
+          },
+          {
+            "nombre": "La Florida",
+            "codigo_postal": "8240000"
+          },
+          {
+            "nombre": "La Granja",
+            "codigo_postal": "8780000"
+          },
+          {
+            "nombre": "La Pintana",
+            "codigo_postal": "8820000"
+          },
+          {
+            "nombre": "La Reina",
+            "codigo_postal": "7850000"
+          },
+          {
+            "nombre": "Las Condes",
+            "codigo_postal": "7550000"
+          },
+          {
+            "nombre": "Lo Barnechea",
+            "codigo_postal": "7690000"
+          },
+          {
+            "nombre": "Lo Espejo",
+            "codigo_postal": "9120000"
+          },
+          {
+            "nombre": "Lo Prado",
+            "codigo_postal": "8980000"
+          },
+          {
+            "nombre": "Macul",
+            "codigo_postal": "7810000"
+          },
+          {
+            "nombre": "Maipú",
+            "codigo_postal": "9250000"
+          },
+          {
+            "nombre": "Ñuñoa",
+            "codigo_postal": "7750000"
+          },
+          {
+            "nombre": "Pedro Aguirre Cerda",
+            "codigo_postal": "8460000"
+          },
+          {
+            "nombre": "Peñalolén",
+            "codigo_postal": "7910000"
+          },
+          {
+            "nombre": "Providencia",
+            "codigo_postal": "7500000"
+          },
+          {
+            "nombre": "Pudahuel",
+            "codigo_postal": "9020000"
+          },
+          {
+            "nombre": "Quilicura",
+            "codigo_postal": "8700000"
+          },
+          {
+            "nombre": "Quinta Normal",
+            "codigo_postal": "8500000"
+          },
+          {
+            "nombre": "Recoleta",
+            "codigo_postal": "8420000"
+          },
+          {
+            "nombre": "Renca",
+            "codigo_postal": "8640000"
+          },
+          {
+            "nombre": "San Joaquín",
+            "codigo_postal": "8940000"
+          },
+          {
+            "nombre": "San Miguel",
+            "codigo_postal": "8900000"
+          },
+          {
+            "nombre": "San Ramón",
+            "codigo_postal": "8860000"
+          },
+          {
+            "nombre": "Vitacura",
+            "codigo_postal": "7630000"
+          },
+          {
+            "nombre": "Puente Alto",
+            "codigo_postal": "8150000"
+          },
+          {
+            "nombre": "Pirque",
+            "codigo_postal": "9480000"
+          },
+          {
+            "nombre": "San José de Maipo",
+            "codigo_postal": "9460000"
+          },
+          {
+            "nombre": "Colina",
+            "codigo_postal": "9340000"
+          },
+          {
+            "nombre": "Lampa",
+            "codigo_postal": "9380000"
+          },
+          {
+            "nombre": "Tiltil",
+            "codigo_postal": "9420000"
+          },
+          {
+            "nombre": "San Bernardo",
+            "codigo_postal": "8050000"
+          },
+          {
+            "nombre": "Buin",
+            "codigo_postal": "9500000"
+          },
+          {
+            "nombre": "Calera de Tango",
+            "codigo_postal": "9560000"
+          },
+          {
+            "nombre": "Paine",
+            "codigo_postal": "9540000"
+          },
+          {
+            "nombre": "Melipilla",
+            "codigo_postal": "9580000"
+          },
+          {
+            "nombre": "Alhué",
+            "codigo_postal": "9650000"
+          },
+          {
+            "nombre": "Curacaví",
+            "codigo_postal": "9630000"
+          },
+          {
+            "nombre": "María Pinto",
+            "codigo_postal": "9620000"
+          },
+          {
+            "nombre": "San Pedro",
+            "codigo_postal": "9660000"
+          },
+          {
+            "nombre": "Talagante",
+            "codigo_postal": "9670000"
+          },
+          {
+            "nombre": "El Monte",
+            "codigo_postal": "9810000"
+          },
+          {
+            "nombre": "Isla de Maipo",
+            "codigo_postal": "9790000"
+          },
+          {
+            "nombre": "Padre Hurtado",
+            "codigo_postal": "9710000"
+          },
+          {
+            "nombre": "Peñaflor",
+            "codigo_postal": "9750000"
+          }
+        ]
+      },
+      {
+        "nombre": "Libertador General Bernardo O'Higgins",
+        "numero": "VI",
+        "comunas": [
+          {
+            "nombre": "Rancagua",
+            "codigo_postal": "2820000"
+          },
+          {
+            "nombre": "Codegua",
+            "codigo_postal": "2910000"
+          },
+          {
+            "nombre": "Coinco",
+            "codigo_postal": "2920000"
+          },
+          {
+            "nombre": "Coltauco",
+            "codigo_postal": "2930000"
+          },
+          {
+            "nombre": "Doñihue",
+            "codigo_postal": "2940000"
+          },
+          {
+            "nombre": "Graneros",
+            "codigo_postal": "2880000"
+          },
+          {
+            "nombre": "Las Cabras",
+            "codigo_postal": "2950000"
+          },
+          {
+            "nombre": "Machalí",
+            "codigo_postal": "2900000"
+          },
+          {
+            "nombre": "Malloa",
+            "codigo_postal": "2960000"
+          },
+          {
+            "nombre": "Mostazal",
+            "codigo_postal": "2890000"
+          },
+          {
+            "nombre": "Olivar",
+            "codigo_postal": "2970000"
+          },
+          {
+            "nombre": "Peumo",
+            "codigo_postal": "2980000"
+          },
+          {
+            "nombre": "Pichidegua",
+            "codigo_postal": "2990000"
+          },
+          {
+            "nombre": "Quinta de Tilcoco",
+            "codigo_postal": "3000000"
+          },
+          {
+            "nombre": "Rengo",
+            "codigo_postal": "2940000"
+          },
+          {
+            "nombre": "Requínoa",
+            "codigo_postal": "2920000"
+          },
+          {
+            "nombre": "San Vicente",
+            "codigo_postal": "3030000"
+          },
+          {
+            "nombre": "Pichilemu",
+            "codigo_postal": "3220000"
+          },
+          {
+            "nombre": "La Estrella",
+            "codigo_postal": "3250000"
+          },
+          {
+            "nombre": "Litueche",
+            "codigo_postal": "3240000"
+          },
+          {
+            "nombre": "Marchihue",
+            "codigo_postal": "3260000"
+          },
+          {
+            "nombre": "Navidad",
+            "codigo_postal": "3270000"
+          },
+          {
+            "nombre": "Paredones",
+            "codigo_postal": "3280000"
+          },
+          {
+            "nombre": "San Fernando",
+            "codigo_postal": "3070000"
+          },
+          {
+            "nombre": "Chépica",
+            "codigo_postal": "3110000"
+          },
+          {
+            "nombre": "Chimbarongo",
+            "codigo_postal": "3120000"
+          },
+          {
+            "nombre": "Lolol",
+            "codigo_postal": "3130000"
+          },
+          {
+            "nombre": "Nancagua",
+            "codigo_postal": "3140000"
+          },
+          {
+            "nombre": "Palmilla",
+            "codigo_postal": "3150000"
+          },
+          {
+            "nombre": "Peralillo",
+            "codigo_postal": "3160000"
+          },
+          {
+            "nombre": "Placilla",
+            "codigo_postal": "3170000"
+          },
+          {
+            "nombre": "Pumanque",
+            "codigo_postal": "3180000"
+          },
+          {
+            "nombre": "Santa Cruz",
+            "codigo_postal": "3190000"
+          }
+        ]
+      },
+      {
+        "nombre": "Maule",
+        "numero": "VII",
+        "comunas": [
+          {
+            "nombre": "Talca",
+            "codigo_postal": "3460000"
+          },
+          {
+            "nombre": "Constitución",
+            "codigo_postal": "3560000"
+          },
+          {
+            "nombre": "Curepto",
+            "codigo_postal": "3580000"
+          },
+          {
+            "nombre": "Empedrado",
+            "codigo_postal": "3590000"
+          },
+          {
+            "nombre": "Maule",
+            "codigo_postal": "3530000"
+          },
+          {
+            "nombre": "Pelarco",
+            "codigo_postal": "3610000"
+          },
+          {
+            "nombre": "Pencahue",
+            "codigo_postal": "3620000"
+          },
+          {
+            "nombre": "Río Claro",
+            "codigo_postal": "3630000"
+          },
+          {
+            "nombre": "San Clemente",
+            "codigo_postal": "3640000"
+          },
+          {
+            "nombre": "San Rafael",
+            "codigo_postal": "3650000"
+          },
+          {
+            "nombre": "Cauquenes",
+            "codigo_postal": "3780000"
+          },
+          {
+            "nombre": "Chanco",
+            "codigo_postal": "3810000"
+          },
+          {
+            "nombre": "Pelluhue",
+            "codigo_postal": "3820000"
+          },
+          {
+            "nombre": "Curicó",
+            "codigo_postal": "3340000"
+          },
+          {
+            "nombre": "Hualañé",
+            "codigo_postal": "3390000"
+          },
+          {
+            "nombre": "Licantén",
+            "codigo_postal": "3420000"
+          },
+          {
+            "nombre": "Molina",
+            "codigo_postal": "3380000"
+          },
+          {
+            "nombre": "Rauco",
+            "codigo_postal": "3430000"
+          },
+          {
+            "nombre": "Romeral",
+            "codigo_postal": "3350000"
+          },
+          {
+            "nombre": "Sagrada Familia",
+            "codigo_postal": "3360000"
+          },
+          {
+            "nombre": "Teno",
+            "codigo_postal": "3370000"
+          },
+          {
+            "nombre": "Vichuquén",
+            "codigo_postal": "3440000"
+          },
+          {
+            "nombre": "Linares",
+            "codigo_postal": "3660000"
+          },
+          {
+            "nombre": "Colbún",
+            "codigo_postal": "3690000"
+          },
+          {
+            "nombre": "Longaví",
+            "codigo_postal": "3720000"
+          },
+          {
+            "nombre": "Parral",
+            "codigo_postal": "3730000"
+          },
+          {
+            "nombre": "Retiro",
+            "codigo_postal": "3760000"
+          },
+          {
+            "nombre": "San Javier",
+            "codigo_postal": "3660000"
+          },
+          {
+            "nombre": "Villa Alegre",
+            "codigo_postal": "3770000"
+          },
+          {
+            "nombre": "Yerbas Buenas",
+            "codigo_postal": "3780000"
+          }
+        ]
+      },
+      {
+        "nombre": "Ñuble",
+        "numero": "XVI",
+        "comunas": [
+          {
+            "nombre": "Chillán",
+            "codigo_postal": "3780000"
+          },
+          {
+            "nombre": "Bulnes",
+            "codigo_postal": "3930000"
+          },
+          {
+            "nombre": "Chillán Viejo",
+            "codigo_postal": "3820000"
+          },
+          {
+            "nombre": "El Carmen",
+            "codigo_postal": "3950000"
+          },
+          {
+            "nombre": "Pemuco",
+            "codigo_postal": "3960000"
+          },
+          {
+            "nombre": "Pinto",
+            "codigo_postal": "3970000"
+          },
+          {
+            "nombre": "Quillón",
+            "codigo_postal": "3980000"
+          },
+          {
+            "nombre": "San Ignacio",
+            "codigo_postal": "3990000"
+          },
+          {
+            "nombre": "Yungay",
+            "codigo_postal": "4000000"
+          },
+          {
+            "nombre": "Quirihue",
+            "codigo_postal": "4010000"
+          },
+          {
+            "nombre": "Cobquecura",
+            "codigo_postal": "4020000"
+          },
+          {
+            "nombre": "Coelemu",
+            "codigo_postal": "4030000"
+          },
+          {
+            "nombre": "Ninhue",
+            "codigo_postal": "4040000"
+          },
+          {
+            "nombre": "Portezuelo",
+            "codigo_postal": "4050000"
+          },
+          {
+            "nombre": "Ránquil",
+            "codigo_postal": "4060000"
+          },
+          {
+            "nombre": "Treguaco",
+            "codigo_postal": "4070000"
+          },
+          {
+            "nombre": "San Carlos",
+            "codigo_postal": "3840000"
+          },
+          {
+            "nombre": "Coihueco",
+            "codigo_postal": "3870000"
+          },
+          {
+            "nombre": "Ñiquén",
+            "codigo_postal": "3900000"
+          },
+          {
+            "nombre": "San Fabián",
+            "codigo_postal": "3910000"
+          },
+          {
+            "nombre": "San Nicolás",
+            "codigo_postal": "3920000"
+          }
+        ]
+      },
+      {
+        "nombre": "Biobío",
+        "numero": "VIII",
+        "comunas": [
+          {
+            "nombre": "Concepción",
+            "codigo_postal": "4070000"
+          },
+          {
+            "nombre": "Coronel",
+            "codigo_postal": "4190000"
+          },
+          {
+            "nombre": "Chiguayante",
+            "codigo_postal": "4100000"
+          },
+          {
+            "nombre": "Florida",
+            "codigo_postal": "4170000"
+          },
+          {
+            "nombre": "Hualqui",
+            "codigo_postal": "4180000"
+          },
+          {
+            "nombre": "Lota",
+            "codigo_postal": "4210000"
+          },
+          {
+            "nombre": "Penco",
+            "codigo_postal": "4150000"
+          },
+          {
+            "nombre": "San Pedro de la Paz",
+            "codigo_postal": "4130000"
+          },
+          {
+            "nombre": "Santa Juana",
+            "codigo_postal": "4230000"
+          },
+          {
+            "nombre": "Talcahuano",
+            "codigo_postal": "4260000"
+          },
+          {
+            "nombre": "Tomé",
+            "codigo_postal": "4280000"
+          },
+          {
+            "nombre": "Hualpén",
+            "codigo_postal": "4600000"
+          },
+          {
+            "nombre": "Lebu",
+            "codigo_postal": "4340000"
+          },
+          {
+            "nombre": "Arauco",
+            "codigo_postal": "4310000"
+          },
+          {
+            "nombre": "Cañete",
+            "codigo_postal": "4360000"
+          },
+          {
+            "nombre": "Contulmo",
+            "codigo_postal": "4370000"
+          },
+          {
+            "nombre": "Curanilahue",
+            "codigo_postal": "4380000"
+          },
+          {
+            "nombre": "Los Álamos",
+            "codigo_postal": "4390000"
+          },
+          {
+            "nombre": "Tirúa",
+            "codigo_postal": "4400000"
+          },
+          {
+            "nombre": "Los Ángeles",
+            "codigo_postal": "4440000"
+          },
+          {
+            "nombre": "Antuco",
+            "codigo_postal": "4470000"
+          },
+          {
+            "nombre": "Cabrero",
+            "codigo_postal": "4480000"
+          },
+          {
+            "nombre": "Laja",
+            "codigo_postal": "4500000"
+          },
+          {
+            "nombre": "Mulchén",
+            "codigo_postal": "4520000"
+          },
+          {
+            "nombre": "Nacimiento",
+            "codigo_postal": "4540000"
+          },
+          {
+            "nombre": "Negrete",
+            "codigo_postal": "4550000"
+          },
+          {
+            "nombre": "Quilaco",
+            "codigo_postal": "4560000"
+          },
+          {
+            "nombre": "Quilleco",
+            "codigo_postal": "4570000"
+          },
+          {
+            "nombre": "San Rosendo",
+            "codigo_postal": "4580000"
+          },
+          {
+            "nombre": "Santa Bárbara",
+            "codigo_postal": "4590000"
+          },
+          {
+            "nombre": "Tucapel",
+            "codigo_postal": "4610000"
+          },
+          {
+            "nombre": "Yumbel",
+            "codigo_postal": "4620000"
+          },
+          {
+            "nombre": "Alto Biobío",
+            "codigo_postal": "4630000"
+          }
+        ]
+      },
+      {
+        "nombre": "Araucanía",
+        "numero": "IX",
+        "comunas": [
+          {
+            "nombre": "Temuco",
+            "codigo_postal": "4780000"
+          },
+          {
+            "nombre": "Carahue",
+            "codigo_postal": "4840000"
+          },
+          {
+            "nombre": "Cunco",
+            "codigo_postal": "4870000"
+          },
+          {
+            "nombre": "Curarrehue",
+            "codigo_postal": "4880000"
+          },
+          {
+            "nombre": "Freire",
+            "codigo_postal": "4900000"
+          },
+          {
+            "nombre": "Galvarino",
+            "codigo_postal": "4920000"
+          },
+          {
+            "nombre": "Gorbea",
+            "codigo_postal": "4930000"
+          },
+          {
+            "nombre": "Lautaro",
+            "codigo_postal": "4960000"
+          },
+          {
+            "nombre": "Loncoche",
+            "codigo_postal": "4970000"
+          },
+          {
+            "nombre": "Melipeuco",
+            "codigo_postal": "4980000"
+          },
+          {
+            "nombre": "Nueva Imperial",
+            "codigo_postal": "4990000"
+          },
+          {
+            "nombre": "Padre Las Casas",
+            "codigo_postal": "4850000"
+          },
+          {
+            "nombre": "Perquenco",
+            "codigo_postal": "5010000"
+          },
+          {
+            "nombre": "Pitrufquén",
+            "codigo_postal": "5020000"
+          },
+          {
+            "nombre": "Pucón",
+            "codigo_postal": "5030000"
+          },
+          {
+            "nombre": "Saavedra",
+            "codigo_postal": "5040000"
+          },
+          {
+            "nombre": "Teodoro Schmidt",
+            "codigo_postal": "5050000"
+          },
+          {
+            "nombre": "Toltén",
+            "codigo_postal": "5060000"
+          },
+          {
+            "nombre": "Vilcún",
+            "codigo_postal": "5070000"
+          },
+          {
+            "nombre": "Villarrica",
+            "codigo_postal": "5090000"
+          },
+          {
+            "nombre": "Cholchol",
+            "codigo_postal": "5100000"
+          },
+          {
+            "nombre": "Angol",
+            "codigo_postal": "5110000"
+          },
+          {
+            "nombre": "Collipulli",
+            "codigo_postal": "5140000"
+          },
+          {
+            "nombre": "Curacautín",
+            "codigo_postal": "5150000"
+          },
+          {
+            "nombre": "Ercilla",
+            "codigo_postal": "5180000"
+          },
+          {
+            "nombre": "Lonquimay",
+            "codigo_postal": "5190000"
+          },
+          {
+            "nombre": "Los Sauces",
+            "codigo_postal": "5200000"
+          },
+          {
+            "nombre": "Lumaco",
+            "codigo_postal": "5210000"
+          },
+          {
+            "nombre": "Purén",
+            "codigo_postal": "5220000"
+          },
+          {
+            "nombre": "Renaico",
+            "codigo_postal": "5230000"
+          },
+          {
+            "nombre": "Traiguén",
+            "codigo_postal": "5240000"
+          },
+          {
+            "nombre": "Victoria",
+            "codigo_postal": "5260000"
+          }
+        ]
+      },
+      {
+        "nombre": "Los Ríos",
+        "numero": "XIV",
+        "comunas": [
+          {
+            "nombre": "Valdivia",
+            "codigo_postal": "5090000"
+          },
+          {
+            "nombre": "Corral",
+            "codigo_postal": "5310000"
+          },
+          {
+            "nombre": "Lanco",
+            "codigo_postal": "5320000"
+          },
+          {
+            "nombre": "Los Lagos",
+            "codigo_postal": "5330000"
+          },
+          {
+            "nombre": "Máfil",
+            "codigo_postal": "5340000"
+          },
+          {
+            "nombre": "Mariquina",
+            "codigo_postal": "5350000"
+          },
+          {
+            "nombre": "Paillaco",
+            "codigo_postal": "5360000"
+          },
+          {
+            "nombre": "Panguipulli",
+            "codigo_postal": "5370000"
+          },
+          {
+            "nombre": "La Unión",
+            "codigo_postal": "5380000"
+          },
+          {
+            "nombre": "Futrono",
+            "codigo_postal": "5410000"
+          },
+          {
+            "nombre": "Lago Ranco",
+            "codigo_postal": "5420000"
+          },
+          {
+            "nombre": "Río Bueno",
+            "codigo_postal": "5430000"
+          }
+        ]
+      },
+      {
+        "nombre": "Los Lagos",
+        "numero": "X",
+        "comunas": [
+          {
+            "nombre": "Puerto Montt",
+            "codigo_postal": "5480000"
+          },
+          {
+            "nombre": "Calbuco",
+            "codigo_postal": "5570000"
+          },
+          {
+            "nombre": "Cochamó",
+            "codigo_postal": "5590000"
+          },
+          {
+            "nombre": "Fresia",
+            "codigo_postal": "5600000"
+          },
+          {
+            "nombre": "Frutillar",
+            "codigo_postal": "5620000"
+          },
+          {
+            "nombre": "Los Muermos",
+            "codigo_postal": "5650000"
+          },
+          {
+            "nombre": "Llanquihue",
+            "codigo_postal": "5660000"
+          },
+          {
+            "nombre": "Maullín",
+            "codigo_postal": "5670000"
+          },
+          {
+            "nombre": "Puerto Varas",
+            "codigo_postal": "5550000"
+          },
+          {
+            "nombre": "Castro",
+            "codigo_postal": "5700000"
+          },
+          {
+            "nombre": "Ancud",
+            "codigo_postal": "5710000"
+          },
+          {
+            "nombre": "Chonchi",
+            "codigo_postal": "5730000"
+          },
+          {
+            "nombre": "Curaco de Vélez",
+            "codigo_postal": "5740000"
+          },
+          {
+            "nombre": "Dalcahue",
+            "codigo_postal": "5750000"
+          },
+          {
+            "nombre": "Puqueldón",
+            "codigo_postal": "5760000"
+          },
+          {
+            "nombre": "Queilén",
+            "codigo_postal": "5770000"
+          },
+          {
+            "nombre": "Quellón",
+            "codigo_postal": "5780000"
+          },
+          {
+            "nombre": "Quemchi",
+            "codigo_postal": "5790000"
+          },
+          {
+            "nombre": "Quinchao",
+            "codigo_postal": "5800000"
+          },
+          {
+            "nombre": "Osorno",
+            "codigo_postal": "5290000"
+          },
+          {
+            "nombre": "Puerto Octay",
+            "codigo_postal": "5500000"
+          },
+          {
+            "nombre": "Purranque",
+            "codigo_postal": "5510000"
+          },
+          {
+            "nombre": "Puyehue",
+            "codigo_postal": "5520000"
+          },
+          {
+            "nombre": "Río Negro",
+            "codigo_postal": "5530000"
+          },
+          {
+            "nombre": "San Juan de la Costa",
+            "codigo_postal": "5540000"
+          },
+          {
+            "nombre": "San Pablo",
+            "codigo_postal": "5560000"
+          },
+          {
+            "nombre": "Chaitén",
+            "codigo_postal": "5810000"
+          },
+          {
+            "nombre": "Futaleufú",
+            "codigo_postal": "5830000"
+          },
+          {
+            "nombre": "Hualaihué",
+            "codigo_postal": "5840000"
+          },
+          {
+            "nombre": "Palena",
+            "codigo_postal": "5850000"
+          }
+        ]
+      },
+      {
+        "nombre": "Aysén del General Carlos Ibáñez del Campo",
+        "numero": "XI",
+        "comunas": [
+          {
+            "nombre": "Coyhaique",
+            "codigo_postal": "5950000"
+          },
+          {
+            "nombre": "Lago Verde",
+            "codigo_postal": "5960000"
+          },
+          {
+            "nombre": "Aysén",
+            "codigo_postal": "5880000"
+          },
+          {
+            "nombre": "Cisnes",
+            "codigo_postal": "5890000"
+          },
+          {
+            "nombre": "Guaitecas",
+            "codigo_postal": "5900000"
+          },
+          {
+            "nombre": "Cochrane",
+            "codigo_postal": "5910000"
+          },
+          {
+            "nombre": "O'Higgins",
+            "codigo_postal": "5920000"
+          },
+          {
+            "nombre": "Tortel",
+            "codigo_postal": "5930000"
+          },
+          {
+            "nombre": "Chile Chico",
+            "codigo_postal": "5940000"
+          },
+          {
+            "nombre": "Río Ibáñez",
+            "codigo_postal": "5970000"
+          }
+        ]
+      },
+      {
+        "nombre": "Magallanes y de la Antártica Chilena",
+        "numero": "XII",
+        "comunas": [
+          {
+            "nombre": "Punta Arenas",
+            "codigo_postal": "6200000"
+          },
+          {
+            "nombre": "Laguna Blanca",
+            "codigo_postal": "6210000"
+          },
+          {
+            "nombre": "Río Verde",
+            "codigo_postal": "6220000"
+          },
+          {
+            "nombre": "San Gregorio",
+            "codigo_postal": "6230000"
+          },
+          {
+            "nombre": "Cabo de Hornos",
+            "codigo_postal": "6350000"
+          },
+          {
+            "nombre": "Antártica",
+            "codigo_postal": "6360000"
+          },
+          {
+            "nombre": "Porvenir",
+            "codigo_postal": "6300000"
+          },
+          {
+            "nombre": "Primavera",
+            "codigo_postal": "6310000"
+          },
+          {
+            "nombre": "Timaukel",
+            "codigo_postal": "6320000"
+          },
+          {
+            "nombre": "Natales",
+            "codigo_postal": "6160000"
+          },
+          {
+            "nombre": "Torres del Paine",
+            "codigo_postal": "6170000"
+          }
+        ]
+      }
+    ]
+  }
+  
