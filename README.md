@@ -9,7 +9,7 @@ Esta API permite obtener información sobre regiones y comunas de Chile.
 - **`https://api-regiones-chile.vercel.app/api/regiones`** - Retorna todas las regiones.
 - **`https://api-regiones-chile.vercel.app/api/regiones?numero=I`** - Retorna región y comunas.
 - **`https://api-regiones-chile.vercel.app/api/comunas`** - Retorna todas las comunas.
-- **`https://api-regiones-chile.vercel.app/api/comunas?codigo_postal=1100000`** - Filtra por comuna exacta.
+- **`https://api-regiones-chile.vercel.app/api/comunas?postal_code=1100000`** - Filtra por comuna exacta.
 
 ## 📊 Ejemplo de Respuesta
 

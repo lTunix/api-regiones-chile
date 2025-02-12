@@ -21,7 +21,7 @@ export default function Home() {
             <code className="bg-gray-200 text-gray-800 px-2 py-1 rounded">/api/comunas</code> - Retorna todas las comunas.
           </li>
           <li>
-            <code className="bg-gray-200 text-gray-800 px-2 py-1 rounded">/api/comunas?codigo_postal=1100000</code> - Filtra por comuna exacta.
+            <code className="bg-gray-200 text-gray-800 px-2 py-1 rounded">/api/comunas?postal_code=1100000</code> - Filtra por comuna exacta.
           </li>
         </ul>
 
