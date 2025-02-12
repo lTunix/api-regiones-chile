@@ -1,13 +1,15 @@
 # 🌎 API Regiones y Comunas de Chile
 
+Entra al sitio [https://api-regiones-chile.vercel.app](https://api-regiones-chile.vercel.app)
+
 Esta API permite obtener información sobre regiones y comunas de Chile.
 
 ## 📌 Endpoints Disponibles
 
-- **`/api/regiones`** - Retorna todas las regiones.
-- **`/api/regiones?numero=I`** - Retorna región y comunas.
-- **`/api/comunas`** - Retorna todas las comunas.
-- **`/api/comunas?codigo_postal=1100000`** - Filtra por comuna exacta.
+- **`https://api-regiones-chile.vercel.app/api/regiones`** - Retorna todas las regiones.
+- **`https://api-regiones-chile.vercel.app/api/regiones?numero=I`** - Retorna región y comunas.
+- **`https://api-regiones-chile.vercel.app/api/comunas`** - Retorna todas las comunas.
+- **`https://api-regiones-chile.vercel.app/api/comunas?codigo_postal=1100000`** - Filtra por comuna exacta.
 
 ## 📊 Ejemplo de Respuesta
 
